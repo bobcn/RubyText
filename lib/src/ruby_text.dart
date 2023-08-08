@@ -96,7 +96,7 @@ class RubySpanWidget extends HookWidget {
     texts.add(
       Text(
         data.text,
-        textAlign: TextAlign.center,
+        textAlign: TextAlign.start,
         style: effectiveTextStyle,
       ),
     );
